@@ -1,5 +1,7 @@
 # Supervised-Machine-Learning-Regression-and-Classification
-It is a course offered by Coursera that I have passed
+It is a course offered by Coursera that I have passed.
+link to course: [Supervised-Machine-Learning-Regression-and-Classification](https://www.coursera.org/learn/machine-learning/home/info)
+
 Here are the course information:
 
 ***
